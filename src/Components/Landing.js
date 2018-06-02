@@ -3,12 +3,12 @@ import React, { Component } from 'react';
 
 
 
-export default class Login extends Component {
+export default class Landing extends Component {
 
 	render() {		
 		return(  
 			<div>
-				<h1>LOGIN PAGE</h1>
+				<h1>LANDING PAGE</h1>
 			</div>
 		)
 	}
